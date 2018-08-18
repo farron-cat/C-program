@@ -9,7 +9,7 @@ int main ()
 
   printf("Gustav Mahler\n");
   printf("Gustav\nMahler\n");
-  printf("Gustav\n");
+  printf("Gustav");
   ptintf("Mahler\n");
 
   return 0;
