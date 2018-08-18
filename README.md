@@ -1,2 +1,3 @@
-# c-program
-just to learn
+# C-program
+Just to learn
+Some programming practice answers
