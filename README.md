@@ -1,3 +1,3 @@
 # C-program
-Just to learn \n
+Just to learn    
 Some programming practice answers
