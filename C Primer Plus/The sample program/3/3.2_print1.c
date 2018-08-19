@@ -1,4 +1,4 @@
-/* printl.c */
+/* print1.c */
 #include <stdio.h>
 int main (void)
 {
