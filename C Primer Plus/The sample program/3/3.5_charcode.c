@@ -1,0 +1,17 @@
+/* charcode.c */
+#include<stdio.h>
+int main (void)
+{
+  char ch;
+
+  printf("Please enter a character.\n");
+  scanf("%c",ch);
+  printf("The code for %c is %d.\n",ch,ch);
+
+  return 0;
+}
+
+// result:
+//       Please ent a character.
+//       C
+//       The code for C is 67.
