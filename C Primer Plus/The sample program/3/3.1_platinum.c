@@ -12,7 +12,7 @@ int main (void)
   scanf ("%f",&weight);
 
   value = 1700.0 * weight * 14.5833;
-  printf("Your weight in platinum prices is worth $%.2f.\n");
+  printf("Your weight in platinum prices is worth $%.2f.\n", value);
   printf("You are easily worth that! If platinum prices drop,\n");
   printf("eat more to maintain your value.\n");
 
