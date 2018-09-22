@@ -1,0 +1,26 @@
+choice question
+1~5  DDDBA
+6~10 BCCDC
+11~12 AA
+
+gap Filling
+1. （1~4）int char double long
+    (5~8) char char int int
+2.  (1~3) 0 4 2
+    (4~6) 4 4 4
+    (7~8) 1 4
+3.  \n    \"
+4.  5
+5.  sin(25 * 3.14 / 180) + cos(30 * 3.14 / 180)
+6.  2
+7.  5f
+8.  5
+
+reading analysis
+1. 3
+   21
+   5，4
+   5，4
+   
+2. 6，9
+   9，27
